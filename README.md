@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @celestebatres. I'm 21 years old and I'm a Systems Engineer who is always excited to learn new knowledge. 
-- I study at Galileo University and I'm currently in the 7th semester.
-- 👀 I’m interested in 
-- 🌱 I’m currently learning web development
-- 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="Logo inicio">   
 
-<!---
-celestebatres/celestebatres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# Portfolio
+
+## Professional Profile
+
+
+Hello! My name is Celeste Batres and I am currently studying Systems Engineering. I have a strong passion for technology and programming, specifically in web development. I am proficient in English and always looking to expand my knowledge and skills in this field.
+
+As a student, I have developed a strong foundation in computer science and programming principles. I am constantly seeking new challenges and opportunities to apply my skills and learn more.
+
+On GitHub, you can find some of my personal projects and contributions to open source projects. I am always open to collaborate and network with other developers, so feel free to reach out to me.
+
+Thank you for visiting my profile!
+
+Please visit my [Portfolio](https://celestebatres.github.io/)
